@@ -1,4 +1,4 @@
-package com.smc.sba.entity;
+package com.fsd.sba.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

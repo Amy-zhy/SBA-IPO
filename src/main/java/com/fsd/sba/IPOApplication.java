@@ -1,4 +1,4 @@
-package com.smc.sba;
+package com.fsd.sba;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

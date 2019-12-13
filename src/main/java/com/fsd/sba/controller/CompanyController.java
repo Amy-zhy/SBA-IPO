@@ -1,10 +1,10 @@
-package com.smc.sba.controller;
+package com.fsd.sba.controller;
 
 import com.alibaba.fastjson.JSONObject;
-import com.smc.sba.entity.CompanyEntity;
-import com.smc.sba.entity.IPODetailEntity;
-import com.smc.sba.service.CompanyService;
-import com.smc.sba.utils.CommonResult;
+import com.fsd.sba.entity.CompanyEntity;
+import com.fsd.sba.entity.IPODetailEntity;
+import com.fsd.sba.service.CompanyService;
+import com.fsd.sba.utils.CommonResult;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;

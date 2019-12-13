@@ -1,11 +1,11 @@
-package com.smc.sba.service;
+package com.fsd.sba.service;
 
-import com.smc.sba.entity.CompanyEntity;
-import com.smc.sba.entity.IPODetailEntity;
-import com.smc.sba.repository.CompanyRepository;
-import com.smc.sba.repository.IpoRepository;
-import com.smc.sba.utils.CommonResult;
-import com.smc.sba.utils.ResponseCode;
+import com.fsd.sba.entity.CompanyEntity;
+import com.fsd.sba.entity.IPODetailEntity;
+import com.fsd.sba.repository.CompanyRepository;
+import com.fsd.sba.repository.IpoRepository;
+import com.fsd.sba.utils.CommonResult;
+import com.fsd.sba.utils.ResponseCode;
 import javax.transaction.Transactional;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

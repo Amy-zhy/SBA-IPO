@@ -1,9 +1,9 @@
-package com.smc.sba.service;
+package com.fsd.sba.service;
 
-import com.smc.sba.entity.IPODetailEntity;
-import com.smc.sba.repository.IpoRepository;
-import com.smc.sba.utils.CommonResult;
-import com.smc.sba.utils.ResponseCode;
+import com.fsd.sba.entity.IPODetailEntity;
+import com.fsd.sba.repository.IpoRepository;
+import com.fsd.sba.utils.CommonResult;
+import com.fsd.sba.utils.ResponseCode;
 import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -29,7 +29,7 @@ public class IpoService {
 	 * Description: query all exchange.
 	 *
 	 * @param:
-	 * @return: com.smc.sba.utils.CommonResult
+	 * @return: com.fsd.sba.utils.CommonResult
 	 * @auther: Yuchaozh
 	 * @date: 2019/12/04 10:39
 	 */
@@ -47,7 +47,7 @@ public class IpoService {
 	 * Description: update StockExchange detail
 	 *
 	 * @param:
-	 * @return: com.smc.sba.utils.CommonResult
+	 * @return: com.fsd.sba.utils.CommonResult
 	 * @auther: Yuchaozh
 	 * @date: 2019/12/04 10:39
 	 */

@@ -1,9 +1,9 @@
-package com.smc.sba.controller;
+package com.fsd.sba.controller;
 
 
-import com.smc.sba.entity.IPODetailEntity;
-import com.smc.sba.service.IpoService;
-import com.smc.sba.utils.CommonResult;
+import com.fsd.sba.entity.IPODetailEntity;
+import com.fsd.sba.service.IpoService;
+import com.fsd.sba.utils.CommonResult;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;

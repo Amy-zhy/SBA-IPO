@@ -1,7 +1,7 @@
-package com.smc.sba;
+package com.fsd.sba;
 
-import com.smc.sba.entity.IPODetailEntity;
-import com.smc.sba.service.IpoService;
+import com.fsd.sba.entity.IPODetailEntity;
+import com.fsd.sba.service.IpoService;
 import java.util.Date;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;

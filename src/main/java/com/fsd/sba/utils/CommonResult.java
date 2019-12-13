@@ -1,4 +1,4 @@
-package com.smc.sba.utils;
+package com.fsd.sba.utils;
 
 public class CommonResult {
 
