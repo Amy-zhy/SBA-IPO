@@ -26,7 +26,7 @@ pipeline {
           bat 'docker push %DOCKERHUBNAME%/sbaamyIPOdetail'
           echo 'Image push successfully!'
           echo 'Start running...'
-          bat 'docker run -d -p 8081:8081 --name sba-IPOdetail %DOCKERHUBNAME%/sbaamyIPOdetail'
+          bat 'docker run -d -p 8083:8083 --name sba-IPOdetail %DOCKERHUBNAME%/sbaamyIPOdetail'
           echo 'docker running successfully!'
         }   
       }
