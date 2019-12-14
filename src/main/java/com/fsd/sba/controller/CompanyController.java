@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @ClassName CompanyController
  * @Description TODO
- * @Author YuChaoZheng
+ * @Author HongYu Zhang
  * @Date 12/9/2019 6:55 PM
  * @Version 1.0
  **/

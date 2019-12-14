@@ -12,7 +12,7 @@ import javax.persistence.Table;
 /**
  * @ClassName CompanyEntity
  * @Description TODO
- * @Author YuChaoZheng
+ * @Author HongYu Zhang
  * @Date 12/9/2019 6:58 PM
  * @Version 1.0
  **/

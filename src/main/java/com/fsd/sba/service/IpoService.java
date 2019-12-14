@@ -13,7 +13,7 @@ import org.springframework.stereotype.Service;
 /**
  * @ClassName IpoService
  * @Description TODO
- * @Author YuChaoZheng
+ * @Author HongYu Zhang
  * @Date 12/4/2019 15:40 AM
  * @Version 1.0
  **/
@@ -30,7 +30,7 @@ public class IpoService {
 	 *
 	 * @param:
 	 * @return: com.fsd.sba.utils.CommonResult
-	 * @auther: Yuchaozh
+	 * @auther: HongYu Zhang
 	 * @date: 2019/12/04 10:39
 	 */
 	public CommonResult save(IPODetailEntity ipo) {
@@ -48,7 +48,7 @@ public class IpoService {
 	 *
 	 * @param:
 	 * @return: com.fsd.sba.utils.CommonResult
-	 * @auther: Yuchaozh
+	 * @auther: HongYu Zhang
 	 * @date: 2019/12/04 10:39
 	 */
 	public CommonResult updateStockExchange(IPODetailEntity ipo) {

@@ -15,7 +15,7 @@ import org.springframework.stereotype.Service;
 /**
  * @ClassName CompanyService
  * @Description TODO
- * @Author YuChaoZheng
+ * @Author HongYu Zhang
  * @Date 12/9/2019 7:02 PM
  * @Version 1.0
  **/
@@ -30,7 +30,7 @@ public class CompanyService {
 	@Autowired
 	private IpoRepository ipoRepository;
 
-	//UpdateController Jack
+	//UpdateController
 	@Transactional
 	public CommonResult addCompany(CompanyEntity companyDtl, IPODetailEntity ipoDetail) {
 		try {

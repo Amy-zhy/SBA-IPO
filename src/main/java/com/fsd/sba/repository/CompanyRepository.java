@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.Query;
 /**
  * @ClassName CompanyRepository
  * @Description TODO
- * @Author YuChaoZheng
+ * @Author HongYu Zhang
  * @Date 12/9/2019 7:03 PM
  * @Version 1.0
  **/
