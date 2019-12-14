@@ -1,5 +1,7 @@
 package com.fsd.sba.entity;
 
+// import java.text.DecimalFormat;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -29,7 +31,7 @@ public class CompanyEntity extends AuditEntity {
 	private String companyName;
 
 	@Column(name = "turnover")
-	private Long turnover;
+	private String turnover;
 
 	@Column(name = "ceo")
 	private String ceo;
@@ -81,11 +83,11 @@ public class CompanyEntity extends AuditEntity {
 		this.companyName = companyName;
 	}
 
-	public Long getTurnover() {
+	public String getTurnover() {
 		return turnover;
 	}
 
-	public void setTurnover(Long turnover) {
+	public void setTurnover(String turnover) {
 		this.turnover = turnover;
 	}
 
